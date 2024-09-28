@@ -11,3 +11,6 @@ Making projects and possibly web-development via HTML
 Learning new programming languages like Java, C, and C++
 Learning how to collaborate with diverse individuals and learn how to develop projects as a team
 Properly develop realistic projects in an effective manner. 
+
+![image](https://github.com/user-attachments/assets/e179c73e-2edf-41e9-9423-cad4b445876e)
+
