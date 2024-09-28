@@ -7,10 +7,12 @@ playing soccer with friends and also going to the gym often to maintain my healt
 https://www.rit.edu/computing/department-software-engineering
 
 What I'd like to learn about the course include:
-Making projects and possibly web-development via HTML
-Learning new programming languages like Java, C, and C++
-Learning how to collaborate with diverse individuals and learn how to develop projects as a team
-Properly develop realistic projects in an effective manner. 
+<ul>
+  <li>Making projects and possibly web-development via HTML<li>
+  <li>Learning new programming languages like Java, C, and C++<li>
+  <li>Learning how to collaborate with diverse individuals and learn how to develop projects as a team<li>
+  <li>Properly develop realistic projects in an effective manner.<li>
+</ul>
 
 ![image](https://github.com/user-attachments/assets/e179c73e-2edf-41e9-9423-cad4b445876e)
 
