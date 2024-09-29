@@ -14,4 +14,4 @@ What I'd like to learn about the course include:
   <li>Properly develop realistic projects in an effective manner.
 </ul>
 
-<img src="fried_chicken.jpg" alt = fried chicken
+<img src="fried_chicken.jpg" alt = fried chicken>
