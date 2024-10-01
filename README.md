@@ -14,12 +14,12 @@ My favorite food is fried chicken!
 
 <h3>What I'd Like To Learn In SWEN-101</h3>
 
-<ul>
+<ol>
   <li>Making projects and possibly web-development via HTML
   <li>Learning new programming languages like Java, C, and C++
   <li>Learning how to collaborate with diverse individuals and learn how to develop projects as a team
   <li>Properly develop realistic projects in an effective manner.
-</ul>
+</ol>
 
 
 
