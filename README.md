@@ -10,7 +10,8 @@ My favorite food is fried chicken!
 <img src="thumbnail-Southern-Fried-Chicken-scaled.jpg">
 
 <h3>RIT Software Engineering Website</h3>
-<a href="https://www.rit.edu/computing/department-software-engineering">RIT Software Engineering Website</a>
+<a href="https://www.rit.edu/computing/department-software-engineering"
+>RIT Software Engineering Website</a>
 
 <h3>What I'd Like To Learn In SWEN-101</h3>
 
