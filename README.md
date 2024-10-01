@@ -7,7 +7,7 @@ playing soccer with friends and also going to the gym often to maintain my healt
 
 <h3>Favorite Food:</h3>
 My favorite food is fried chicken!
-<img src="fried_chicken.jpg">
+<img src="thumbnail-Southern-Fried-Chicken-scaled.jpg">
 
 <h3>RIT Software Engineering Website</h3>
 <a href="https://www.rit.edu/computing/department-software-engineering"
